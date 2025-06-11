@@ -1,4 +1,5 @@
 # Hexfriend
+(NOTE: this is just my fork in case the main repo ever goes dark. Check out the main repo for the most up to date changes: https://github.com/jdsayle/Hexfriend-backup (although I'll try to keep up with changes from the main branch on this fork))
 
 A friendly online hexmapper - you can find it at https://www.hexfriend.net
 
